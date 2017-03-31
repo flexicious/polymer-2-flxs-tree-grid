@@ -1,0 +1,6 @@
+{
+  "name": "flxs-tree-grid",
+  "dependencies": {
+    "polymer": "Polymer/polymer#2.0-preview"
+  }
+}
